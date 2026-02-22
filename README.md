@@ -26,10 +26,10 @@ You can go to it clicking on this link:
 ---
 You need the following steps in your computer:
 1. Install git
-2. Install visual code
+2. Install Visual Studio Code
 3. Install the extension *Live Server*
 4. Fork the repository to your github
-5. Clone that on your computer with **gitclone**
+5. Clone that on your computer using **gitclone**
 6. Find the project directory and open it
 7. Go to the index file and *Go Live*
 
