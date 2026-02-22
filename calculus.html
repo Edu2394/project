@@ -1,16 +1,33 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <nav>
+        <a href="index.html"><button class="buttons">Home</button></a>
+    </nav>
+   
+    </head>
   <body>
+    <section>
     <h1>Calculus</h1>
       <p>Sorry, this page is on progress...</p>
       <p> Make suggestions of what we can include!</p>
       <form>
-        <input type="text">
-        <input type="password"><br><br>
+        <fieldset>
+        <legend>Suggestions</legend>
+        <label for ="h">Name</label><br>
+        <input type="text" id="h"><br><br>
+        <label for ="e">Email</label><br>
+        <input type="email" id="e"><br><br>
+        <label for ="sgs">Express your recommendations</label><br>
+        <textarea id="sgs" rows="4" cols="35"></textarea><br><br>
+        </fieldset>
+        
         <button type="submit">Submit</button>
         
       </form>
+      </section>
       <br>
-      <button onclick="location.href='index.html'">Home</button>
+       <br><footer>Made by Eduardo Gomez Robles -2026</footer>
   </body>
 </html>
