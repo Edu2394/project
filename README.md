@@ -2,7 +2,7 @@
 ## A small math web page
 ![Math Image](https://www.oneeducation.org.uk/wp-content/uploads/2021/06/13-Tips-And-Tricks-To-Become-Better-At-Math.png)
 
-f you are looking for a plattform to learn math, you can view this!
+If you are looking for a plattform to learn math, you can view this!
 This page contains things like:
 + Books
 + Videos
@@ -20,7 +20,7 @@ There are two ways:
 ---
 You can go to it clicking on this link: 
 
-[👉 Math Web Page](https://edu.devf.la/en/campus/program/module/intro_programming/final_project/project/module1_final_project)
+[👉 Math Web Page](https://edu2394.github.io/project/index.html)
 
 ### The hardest
 ---
